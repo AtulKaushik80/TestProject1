@@ -6,3 +6,4 @@ num2 = 20000
 num1 + num2
 print ("Hello")
 print ("Sum of " + str(num1) + " and " + str(num2) + " is: " + str(num1+num2))
+print ("Product of both numbers is " + str(num1*num2))
